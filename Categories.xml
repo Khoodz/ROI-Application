@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+	<category Id="0">
+		<Name>General</Name>
+	</category>
+	<category Id="1">
+		<Name>ICT</Name>
+	</category>
+	<category Id="2">
+		<Name>Finance</Name>
+	</category>
+	<category Id="3">
+		<Name>Marketing</Name>
+	</category>
+	<category Id="4">
+		<Name>Human Resources</Name>
+	</category>
+</Categories>

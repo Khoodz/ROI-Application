@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<People>
+  <person id="1">
+    <category>1</category>
+    <name>John smith</name>
+    <number>02 9988 2211</number>
+    <address>
+      <street>1 Code Lane</street>
+      <city>Javaville</city>
+      <state>NSW</state>
+      <ZIP>1011</ZIP>
+      <country>Australia</country>
+    </address>
+  </person>
+  <person id="2">
+    <category>2</category>
+    <name>Sue White</name>
+    <number>03 8899 2255</number>
+    <address>
+      <street>16 Bit Way</street>
+      <city>Byte Cove</city>
+      <state>QLD</state>
+      <ZIP>1010</ZIP>
+      <country>Australia</country>
+    </address>
+  </person>
+  <person id="3">
+    <category>3</category>
+    <name>Bob O’Bits</name>
+    <number>05 7788 2255</number>
+    <address>
+      <street>8 Silicon Road</street>
+      <city>Cloud Hills</city>
+      <state>VIC</state>
+      <ZIP>1001</ZIP>
+      <country>Australia</country>
+    </address>
+  </person>
+  <person id="5">
+    <category>3</category>
+    <name>Mick Green</name>
+    <number>02 9988 1122</number>
+    <address>
+      <street>700 Bandwidth Street</street>
+      <city>Bufferland</city>
+      <state>NSW</state>
+      <ZIP>1013</ZIP>
+      <country>Australia</country>
+    </address>
+  </person>
+  <person id="6">
+    <name>Ahmad John</name>
+    <category>3</category>
+    <number>0416123456</number>
+    <address>
+      <street>84 John St</street>
+      <city>Guildford</city>
+      <state>NSW</state>
+      <ZIP>2161</ZIP>
+      <country>Australia</country>
+    </address>
+  </person>
+  <person id="7">
+    <name>Jack</name>
+    <category>2</category>
+    <number>123</number>
+    <address>
+      <street>coder st</street>
+      <city>granville</city>
+      <state>nsw</state>
+      <ZIP>2195</ZIP>
+      <country>turkey</country>
+    </address>
+  </person>
+</People>
