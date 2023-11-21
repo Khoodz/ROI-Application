@@ -1,3 +1,4 @@
+// Import all important information
 import React, { useEffect, useState } from 'react';
 import {
   View,
